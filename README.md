@@ -1,4 +1,4 @@
-<h1 align="center">Patrones de diseño creacionales</h1>
+<h1 align="center">Patrones de diseño estructurales</h1>
 
 <p align="center">Aquí están los 3 patrones de diseño implementados, con su respectivo enunciado.</p>
 
@@ -6,7 +6,7 @@
 
 1. **Clonar el Repositorio:**
    ```bash
-   git clone https://github.com/Cvaz007/design-pattern-creational.git
+   git clone https://github.com/Cvaz007/design-pattern-structural.git
    ```
    Clona el repositorio, preferiblemente a través de claves de seguridad SSH o también puedes usar el método HTTPS.
 
